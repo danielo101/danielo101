@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-A
+I have been learning and training for years in web development, right now I am working a my portfolio and selecting projects to upload.
+
+Please come back soon!!!
 
 <!--
 **danielo101/danielo101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
