@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I have been learning and training for years in web development, right now I am working a my portfolio and selecting projects to upload.
+I have been learning and improving my skills in web development for a long time, as a side job.
+
+Right now I am working a my portfolio and selecting projects to upload.
 
 Please come back soon!!!
 
