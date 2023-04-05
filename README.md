@@ -2,7 +2,7 @@
 
 I have been learning and improving my skills in web development for a long time, as a side job.
 
-Right now I am working a my portfolio and selecting projects to upload.
+At the moment I am working on my portfolio and selecting projects to upload.
 
 Please come back soon!!!
 
