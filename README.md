@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-I have been learning and improving my skills in web development for a long time, as a side job.
-
-At the moment I am working on my portfolio and selecting projects to upload.
+I have been learning and developing my skills as a front-end and back-end developer for a long time because I want to work as a full-stack developer. 
+I have worked on some web projects as a side job. Currently, I am working on my portfolio.
 
 Please come back soon!!!
 
